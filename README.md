@@ -29,4 +29,4 @@ Currently studying **MSc Computer Science with AI** at St Mary's University whil
 ## Get in touch
 
 - Website: [aoneill.co.uk](https://aoneill.co.uk)
-- LinkedIn: [Antony O'Neill](https://www.linkedin.com/in/antony-o-neill-a1b2c3/)
+- LinkedIn: [Antony O'Neill](https://www.linkedin.com/in/antony-o-neill-96601a104/)
