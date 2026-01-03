@@ -1,6 +1,6 @@
 # Hey, I'm Antony
 
-Machine learning engineer and **MSc Computer Science with AI** student at St Mary's University.
+**MSc Computer Science with AI** student at St Mary's University, focused on machine learning and data science.
 
 17 years in mechanical engineering taught me systematic problem-solving and debugging under pressure — skills that transfer directly to ML pipelines and data analysis.
 
