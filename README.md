@@ -1,30 +1,34 @@
 # Hey, I'm Antony
 
-Mechanical engineer with 17 years experience, now transitioning into software development.
+Machine learning engineer and **MSc Computer Science with AI** student at St Mary's University.
 
-Currently studying **MSc Computer Science with AI** at St Mary's University while freelancing as a web developer.
+17 years in mechanical engineering taught me systematic problem-solving and debugging under pressure — skills that transfer directly to ML pipelines and data analysis.
 
 ## What I'm working with
 
+- **AI/ML:** Python, PyTorch, TensorFlow, scikit-learn, pandas, NumPy
 - **Web:** Next.js, React, TypeScript, Tailwind CSS
 - **Backend:** Supabase, PostgreSQL, SQL
-- **AI/ML:** Python, TensorFlow, PyTorch
 - **Other:** Git, Arduino, Klipper, 3D Printing
 
 ## Current focus
 
-- Building production web apps for clients
-- Deep diving into machine learning and neural networks
-- Exploring reinforcement learning and computer vision
+- Deep Q-Learning and reinforcement learning
+- Classical ML and neural network architectures
+- Building end-to-end ML pipelines
+- Ethical AI and responsible model development
 
 ## Featured projects
 
 | Project | Description |
 |---------|-------------|
-| [Portfolio](https://aoneill.co.uk) | My portfolio site with interactive experiments |
-| [Snake RL](https://github.com/W17ant/snake-reinforcement-learning) | Deep Q-Network agent learning Snake |
-| [30 Days Lost in Space](https://github.com/W17ant/30-Days-Lost-in-space) | Arduino course code and schematics |
-| [Ender 3 V2 Klipper](https://github.com/W17ant/Ender-3-v2---klipper) | 3D printer config files |
+| [Snake RL](https://github.com/W17ant/msc-artificial-intelligence/tree/main/assessments/snake-rl) | Deep Q-Network agent with experience replay |
+| [Heart Disease Classification](https://github.com/W17ant/msc-artificial-intelligence/tree/main/assessments/heart-disease) | Random Forest, SVM, and Neural Network comparison (85% accuracy) |
+| [Portfolio](https://aoneill.co.uk) | Interactive experiments and ML project writeups |
+
+## Looking for
+
+Graduate roles in **AI/ML**, **Data Science**, or **Machine Learning Engineering**.
 
 ## Get in touch
 
