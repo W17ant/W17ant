@@ -33,4 +33,4 @@ Graduate roles in **AI/ML**, **Data Science**, or **Machine Learning Engineering
 ## Get in touch
 
 - Website: [aoneill.co.uk](https://aoneill.co.uk)
-- LinkedIn: [Antony O'Neill](https://www.linkedin.com/in/antony-o-neill-96601a104/)
+- LinkedIn: [Antony O'Neill](https://www.linkedin.com/in/AntonyONeillADL)
