@@ -24,6 +24,7 @@
 |---------|-------------|
 | [Snake RL](https://github.com/W17ant/msc-artificial-intelligence/tree/main/assessments/snake-rl) | Deep Q-Network agent with experience replay |
 | [Heart Disease Classification](https://github.com/W17ant/msc-artificial-intelligence/tree/main/assessments/heart-disease) | Random Forest, SVM, and Neural Network comparison (85% accuracy) |
+| [NCM Classification Practical](https://github.com/W17ant/machine-learning-practical) | Interactive notebook guide for NCM, LDA, QDA classifiers |
 | [Portfolio](https://aoneill.co.uk) | Interactive experiments and ML project writeups |
 
 ## Looking for
