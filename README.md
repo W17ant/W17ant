@@ -22,6 +22,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [Doom Scroll Detection](https://github.com/W17ant/Doom-Scroll-Detection) | Webcam-based posture monitor using MediaPipe and YOLOv8 |
 | [Snake RL](https://github.com/W17ant/msc-artificial-intelligence/tree/main/assessments/snake-rl) | Deep Q-Network agent with experience replay |
 | [Heart Disease Classification](https://github.com/W17ant/msc-artificial-intelligence/tree/main/assessments/heart-disease) | Random Forest, SVM, and Neural Network comparison (85% accuracy) |
 | [NCM Classification Practical](https://github.com/W17ant/machine-learning-practical) | Interactive notebook guide for NCM, LDA, QDA classifiers |
