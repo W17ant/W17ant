@@ -22,6 +22,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [COBOL ATM](https://github.com/W17ant/cobol-atm) | Full ATM in COBOL with Flask bridge and retro CRT interface |
 | [Doom Scroll Detection](https://github.com/W17ant/Doom-Scroll-Detection) | Webcam-based posture monitor using MediaPipe and YOLOv8 |
 | [Snake RL](https://github.com/W17ant/msc-artificial-intelligence/tree/main/assessments/snake-rl) | Deep Q-Network agent with experience replay |
 | [Heart Disease Classification](https://github.com/W17ant/msc-artificial-intelligence/tree/main/assessments/heart-disease) | Random Forest, SVM, and Neural Network comparison (85% accuracy) |
