@@ -1,10 +1,10 @@
 # Antony O'Neill
 
-> Graduating **April 2027** · open to **placements, internships, and graduate roles** in AI/ML and Data Science.
+> Founder of **ADL Mechanical Services Ltd** · completing an MSc in Computer Science with AI (St Mary's University, April 2027) · open to AI/ML conversations, collaborations, and consulting.
 
-MSc Computer Science with AI at St Mary's University. Working on machine learning, data science, and building things end-to-end.
+Seventeen years running mechanical engineering work — the last few of them building **ADL Mechanical Services Ltd** — and now applying that same systematic, debug-under-pressure mindset to machine learning and data science.
 
-Seventeen years in mechanical engineering before this. The parts that carried over: systematic problem-solving, debugging under pressure, and a stubborn habit of not shipping things I don't understand.
+The MSc is the formal route in. The day job is where the discipline came from.
 
 [aoneill.co.uk](https://aoneill.co.uk) · [LinkedIn](https://www.linkedin.com/in/AntonyONeillADL)
 
@@ -37,4 +37,4 @@ Seventeen years in mechanical engineering before this. The parts that carried ov
 
 ## Open to
 
-Graduate roles in **AI/ML**, **Data Science**, or **Machine Learning Engineering**. Best way to reach me is [LinkedIn](https://www.linkedin.com/in/AntonyONeillADL).
+Conversations around **AI/ML**, **Data Science**, and **applied machine learning** — particularly anything bridging engineering domain knowledge with ML. Open to collaborations, consulting, research, and the right full-time AI/ML role from April 2027. Best way to reach me is [LinkedIn](https://www.linkedin.com/in/AntonyONeillADL).
