@@ -58,8 +58,11 @@ Seventeen years in mechanical engineering taught me systematic problem-solving a
 
 ## Featured projects
 
+> **[Claude-Office](https://github.com/W17ant/Claude-Office)** &nbsp;·&nbsp; ![Trending](https://img.shields.io/badge/-trending-FF6B35?style=flat-square) &nbsp; Pixel-art virtual office visualising Claude agents working in real time — React + TypeScript + Vite front end, Express + WebSocket back end, SQLite state, optional Electron desktop build.
+
 | Project | What it is |
 |---------|------------|
+| [**Claude-Office**](https://github.com/W17ant/Claude-Office) | Pixel-art isometric office where AI agents appear and collaborate live over WebSockets |
 | [**COBOL ATM**](https://github.com/W17ant/cobol-atm) | Full ATM built in COBOL with a Flask bridge and retro CRT interface |
 | [**Doom Scroll Detection**](https://github.com/W17ant/Doom-Scroll-Detection) | Webcam-based posture monitor using MediaPipe and YOLOv8 |
 | [**Snake RL**](https://github.com/W17ant/msc-artificial-intelligence/tree/main/assessments/snake-rl) | Deep Q-Network agent with experience replay |
