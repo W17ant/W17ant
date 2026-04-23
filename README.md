@@ -1,5 +1,7 @@
 # Antony O'Neill
 
+> Graduating **April 2027** · open to **placements, internships, and graduate roles** in AI/ML and Data Science.
+
 MSc Computer Science with AI at St Mary's University. Working on machine learning, data science, and building things end-to-end.
 
 Seventeen years in mechanical engineering before this. The parts that carried over: systematic problem-solving, debugging under pressure, and a stubborn habit of not shipping things I don't understand.
